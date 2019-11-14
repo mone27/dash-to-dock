@@ -40,7 +40,7 @@ Shell reload is required <code>Alt+F2 r Enter</code>. The extension can be enabl
 ### Installation from source
 The extension can be installed directly from source, either for the convenience of using *git* or to test the latest development version. Clone the desired branch with git
 
-     git clone https://github.com/micheleg/dash-to-dock.git
+    git clone https://github.com/micheleg/dash-to-dock.git
 
 or download the branch from github. The *master* branch usually target the latest GNOME Shell version. There are *gnome-3.x* branch with the latest code for older versions. In case you are running a development version ( that is an even version), although the extension is not guaranteed to work, you should look for a development branch and manually add your version in the metadata.json. Sometimes the previous stable version works with minor bugs also in the development GNOME Shell.
 
